@@ -4,7 +4,7 @@ This project provides hands-on experience with text representations and the use 
 
 ## Data Preparation
 
-We used the Amazon reviews dataset, which contains real reviews for kitchen products sold on Amazon. The dataset is downloadable [here](https://web.archive.org/web/20201127142707if_/https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Office_Products_v1_00.tsv.gz).
+Used the Amazon reviews dataset, which contains real reviews for kitchen products sold on Amazon. The dataset is downloadable [here](https://web.archive.org/web/20201127142707if_/https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Office_Products_v1_00.tsv.gz).
 
 ### Steps:
 1. **Read the Data**: Loaded the dataset as a Pandas DataFrame and retained only the Reviews and Ratings fields.
